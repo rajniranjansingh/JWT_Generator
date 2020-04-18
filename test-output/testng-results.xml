@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="365" started-at="2020-04-06T00:39:51 PDT" finished-at="2020-04-06T00:39:51 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="365" started-at="2020-04-06T00:39:51 PDT" finished-at="2020-04-06T00:39:51 PDT">
+      <class name="com.thed.zephyr.GenerateJWTTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.thed.zephyr.GenerateJWTTest@13eb8acf]" name="setUp" is-config="true" duration-ms="17" started-at="2020-04-06T00:39:51 PDT" finished-at="2020-04-06T00:39:51 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGenerateJWT()[pri:0, instance:com.thed.zephyr.GenerateJWTTest@13eb8acf]" name="testGenerateJWT" duration-ms="303" started-at="2020-04-06T00:39:51 PDT" finished-at="2020-04-06T00:39:51 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGenerateJWT -->
+      </class> <!-- com.thed.zephyr.GenerateJWTTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
